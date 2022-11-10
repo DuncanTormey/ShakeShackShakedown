@@ -1,0 +1,5 @@
+pandas
+openpyxl
+bs4
+reverse-geocode
+requests
